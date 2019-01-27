@@ -27,9 +27,9 @@
 
 # how to work with Docker volumes
  3 sub-sections:
-Create a Docker volume and pull Alpine image
-Create files in Alpine
-Verify the existence of Docker volume
+Create a Docker volume and pull Alpine image <br>
+Create files in Alpine<br>
+Verify the existence of Docker volume<br>
 
 ## Create a Docker volume and pull Alpine image
 Create a Docker volume to which you will add persistent data.
