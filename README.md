@@ -26,7 +26,7 @@
 - Click on "Add New Node"
 
 # how to work with Docker volumes
- 3 sub-sections:
+ 3 sub-sections:<br>
 Create a Docker volume and pull Alpine image <br>
 Create files in Alpine<br>
 Verify the existence of Docker volume<br>
